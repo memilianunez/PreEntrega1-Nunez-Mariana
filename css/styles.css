@@ -1,0 +1,65 @@
+* {
+    font-family: 'Roboto', Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+body {
+    align-content: center;
+}
+
+h1 {
+    color: white;
+    font-size: 4rem;
+    padding-top: 1em;
+}
+
+h2 {
+    color: white;
+    padding-top: 1em;
+}
+
+h3 {
+    color: white;
+    padding-bottom: 1em;
+    font-weight: 200;
+    font-size: medium;
+}
+
+ol li {
+    color: white;
+}
+
+
+p {
+    font-size: large;
+    letter-spacing: 0.05em;
+    padding: 2%;
+}
+
+.aclaracion {
+    font-size: 1em;
+    padding-top: 2rem;
+}
+
+span {
+    font-weight: 200;
+    color: rgb(255, 255, 255);
+    font-size: medium;
+
+}
+
+strong {
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+}
+
+.tastybite-background-image {
+    background-color: rgb(0, 0, 0);
+    height: 100vh;
+    width: 100vw;
+    padding-left: 8em;
+    background-image: url("../src/tastybites-fondo.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+}
